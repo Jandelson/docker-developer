@@ -1,0 +1,10 @@
+/vendor
+/docker-compose/postgres/*
+/docker-compose/mysql/*
+.env
+composer.lock
+.history
+/.vscode/*
+/.vs/*
+/.history
+xdebug.log
