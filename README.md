@@ -6,6 +6,7 @@ Docker com php/nginx+ postgres ou mysql: para testes e estudo
 
 # Iniciar
 Ter instalado docker/docker-compose
+
 1º Clonar o repositório
 
 2º Copiar o arquivo .example_env para .env
